@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from some_meta_test import Message, cached_property
-
+from some_code.some_meta_test import Message, cached_property
 import unittest
 
 class Test(unittest.TestCase):
